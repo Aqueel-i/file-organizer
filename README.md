@@ -51,7 +51,7 @@ A simple, clean, and powerful **File Organizer** desktop application built with 
 
 ## 📥 Download
 
-🔽 You can download the latest Windows installer from the [Releases page](https://github.com/your-username/file-organizer/releases).
+🔽 You can download the latest Windows installer from the [Releases page](https://github.com/Aqueel-i/file-organizer/releases).
 
 > No Python installation is needed — just download and run the `.exe`.
 
