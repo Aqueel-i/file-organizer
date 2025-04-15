@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# PyInstaller build
+build/
+dist/
+*.spec
+*.toc
+*.log
+*.pkg
+*.zip
+*.html
+
+# Output installer
+FileOrganizerSetup.exe
+log.txt
